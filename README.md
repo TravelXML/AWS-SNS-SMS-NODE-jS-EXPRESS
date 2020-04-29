@@ -12,5 +12,5 @@ INTEGRATE
 ---------------------------
 Add express-sns-sms.js to required file
 
-Skype:sapan.mohannty
+For any query: Skype:sapan.mohannty
 

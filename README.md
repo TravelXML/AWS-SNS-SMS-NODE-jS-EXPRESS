@@ -10,7 +10,7 @@ Run this command 'npm install aws-sns-sms'
 
 INTEGRATE
 ---------------------------
-Add express-sns-sms.js to required file
+Add express-sns-sms.js script to required file
 
 For any query: Skype:sapan.mohannty
 
